@@ -8,7 +8,6 @@ this is where i perform my beep boops
 
 - currently working on backend architecture for a small ed-tech startup
 - also working on styling of my portfolio 
-- looking for help with OOP fundamentals 😅
 - always open to connections via linkedin :) 
 
 <!--
